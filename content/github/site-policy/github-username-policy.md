@@ -10,6 +10,7 @@ topics:
   - Legal
 ---
 
+
 GitHub account names are available on a first-come, first-served basis, and are intended for immediate and active use.
 
 ## What if the username I want is already taken?
